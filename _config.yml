@@ -1,3 +1,5 @@
-theme: dinky
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Marisa Redding CS Portfolio
 description: Welcome to my website! Here you'll find information on some projects I've worked on.
